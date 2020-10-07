@@ -14,5 +14,7 @@ Students Involved:
 
 <em>Instructions</em>
 1. Download the repository's files.
+```
 2. pip install numpy,scikit.learn, matplotlib.pyplot
+```
 3. Run test_ksvd.py
