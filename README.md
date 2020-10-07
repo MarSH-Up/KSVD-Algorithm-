@@ -11,3 +11,8 @@ Students Involved:
 - Alejandra R. Solache. Github: <a href="https://github.com/ale-rocha">ale-rocha</a>. Email: a.rochasolache@gmail.com
 - José F. Cárdenas Carballo. Github: <a href="https://github.com/JFCC12">JFCC12</a>. Email: josefcocardenas95@gmail.com 
 - Mario De Los Santos Hernández.Github: <a href="https://github.com/MarSH-Up">MarSH-Up</a>. Email: madlsh3517@gmail.com
+
+<em>Instructions</em>
+1. Download the repository's files.
+2. pip install numpy,scikit.learn, matplotlib.pyplot
+3. Run test_ksvd.py
