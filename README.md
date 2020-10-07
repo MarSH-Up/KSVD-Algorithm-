@@ -1,4 +1,4 @@
-# KSVD-Algorithm
+## KSVD-Algorithm
 
 <i>K-SVD Algorithm application as assignment for the course Mathematics for Computation</i>
 
@@ -18,3 +18,10 @@ Students Involved:
 2. pip install numpy,scikit.learn, matplotlib.pyplot
 ```
 3. Run test_ksvd.py
+
+
+# References
+
+- [Rubinstein, R., Zibulevsky, M. and Elad, M., Efficient Implementation of the K-SVD Algorithm using Batch Orthogonal Matching Pursuit Technical Report - CS Technion, April 2008](http://www.cs.technion.ac.il/~ronrubin/Publications/KSVD-OMP-v2.pdf)
+
+- [Lobato Polo, Adriana Patricia, Sparse signal recovery using orthogonal matching pursuit (OMP), Journal, 2003](https://revistas.unal.edu.co/index.php/ingeinv/article/view/15171/15965)
